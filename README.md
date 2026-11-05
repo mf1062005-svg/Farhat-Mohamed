@@ -33,5 +33,3 @@ Coming soon! 🚀
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/mf1062005-svg
-
-- GitHub: https://github.com/YOUR_USERNAME
